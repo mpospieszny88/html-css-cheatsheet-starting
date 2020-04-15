@@ -1,0 +1,39 @@
+body {
+  font-family: Arial;
+  background-color: ghostwhite;
+}
+
+h1 {
+  color: ghostwhite;
+  background-color: darkred;
+  text-align: center;
+}
+
+h2 {
+  color: darkred;
+  text-align: center;
+}
+
+table {
+  border: 2px solid darkred;
+  margin: 0 auto;
+  width: 650px;
+}
+
+thead {
+  background-color: darkred;
+  color: ghostwhite;
+  text-align: center;
+  font-weight: bold;
+}
+
+td {
+  border-top: 1px solid darkred;
+}
+
+.code {
+  background-color: darkred;
+  font-size: 14px;
+  color: ghostwhite;
+  text-align: center;
+}
